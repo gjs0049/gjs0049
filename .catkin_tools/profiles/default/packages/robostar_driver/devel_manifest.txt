@@ -1,9 +1,0 @@
-Teaching_pendant/ra001/robostar_driver
-/home/cyberrobot/test_ws/devel/.private/robostar_driver/cmake.lock /home/cyberrobot/test_ws/devel/./cmake.lock
-/home/cyberrobot/test_ws/devel/.private/robostar_driver/share/robostar_driver/cmake/robostar_driver-msg-extras.cmake /home/cyberrobot/test_ws/devel/share/robostar_driver/cmake/robostar_driver-msg-extras.cmake
-/home/cyberrobot/test_ws/devel/.private/robostar_driver/share/robostar_driver/cmake/robostar_driverConfig.cmake /home/cyberrobot/test_ws/devel/share/robostar_driver/cmake/robostar_driverConfig.cmake
-/home/cyberrobot/test_ws/devel/.private/robostar_driver/share/robostar_driver/cmake/robostar_driver-msg-paths.cmake /home/cyberrobot/test_ws/devel/share/robostar_driver/cmake/robostar_driver-msg-paths.cmake
-/home/cyberrobot/test_ws/devel/.private/robostar_driver/share/robostar_driver/cmake/robostar_driverConfig-version.cmake /home/cyberrobot/test_ws/devel/share/robostar_driver/cmake/robostar_driverConfig-version.cmake
-/home/cyberrobot/test_ws/devel/.private/robostar_driver/share/roseus/ros/robostar_driver/manifest.l /home/cyberrobot/test_ws/devel/share/roseus/ros/robostar_driver/manifest.l
-/home/cyberrobot/test_ws/devel/.private/robostar_driver/lib/pkgconfig/robostar_driver.pc /home/cyberrobot/test_ws/devel/lib/pkgconfig/robostar_driver.pc
-/home/cyberrobot/test_ws/devel/.private/robostar_driver/lib/python2.7/dist-packages/robostar_driver/__init__.py /home/cyberrobot/test_ws/devel/lib/python2.7/dist-packages/robostar_driver/__init__.py

@@ -1,5 +1,0 @@
-Teaching_pendant/ra001/robostar_urdf
-/home/cyberrobot/test_ws/devel/.private/robostar_urdf/cmake.lock /home/cyberrobot/test_ws/devel/./cmake.lock
-/home/cyberrobot/test_ws/devel/.private/robostar_urdf/share/robostar_urdf/cmake/robostar_urdfConfig.cmake /home/cyberrobot/test_ws/devel/share/robostar_urdf/cmake/robostar_urdfConfig.cmake
-/home/cyberrobot/test_ws/devel/.private/robostar_urdf/share/robostar_urdf/cmake/robostar_urdfConfig-version.cmake /home/cyberrobot/test_ws/devel/share/robostar_urdf/cmake/robostar_urdfConfig-version.cmake
-/home/cyberrobot/test_ws/devel/.private/robostar_urdf/lib/pkgconfig/robostar_urdf.pc /home/cyberrobot/test_ws/devel/lib/pkgconfig/robostar_urdf.pc

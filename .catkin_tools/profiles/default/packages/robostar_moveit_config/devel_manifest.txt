@@ -1,5 +1,0 @@
-Teaching_pendant/ra001/robostar_moveit_config
-/home/cyberrobot/test_ws/devel/.private/robostar_moveit_config/cmake.lock /home/cyberrobot/test_ws/devel/./cmake.lock
-/home/cyberrobot/test_ws/devel/.private/robostar_moveit_config/share/robostar_moveit_config/cmake/robostar_moveit_configConfig-version.cmake /home/cyberrobot/test_ws/devel/share/robostar_moveit_config/cmake/robostar_moveit_configConfig-version.cmake
-/home/cyberrobot/test_ws/devel/.private/robostar_moveit_config/share/robostar_moveit_config/cmake/robostar_moveit_configConfig.cmake /home/cyberrobot/test_ws/devel/share/robostar_moveit_config/cmake/robostar_moveit_configConfig.cmake
-/home/cyberrobot/test_ws/devel/.private/robostar_moveit_config/lib/pkgconfig/robostar_moveit_config.pc /home/cyberrobot/test_ws/devel/lib/pkgconfig/robostar_moveit_config.pc
